@@ -5,14 +5,14 @@ Runs Google API ocr on a directory of files.
 
     python google_vision_api.py imageDirectoryPath outputPath
 
-    python google_vision_api.py /Users/halperta/GitHub/ahpn-ocr/data /Users/halperta/GitHub//ahpn-ocr/output
+    python google_vision_api.py /Users/halperta/GitHub/ahpn-ocr/data /Users/halperta/GitHub/ahpn-ocr/output
 
 Where all paths are of form `/Users/halperta/GitHub/ahpn-ocr/'
 
 @author: halperta
 '''
 
-
+import sys
 import io
 import os
 import glob
