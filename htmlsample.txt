@@ -1,0 +1,313 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://ahpn.lib.utexas.edu/sites/all/themes/ahpn/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://ahpn.lib.utexas.edu/search/documento/3895703" />
+<link rel="shortlink" href="https://ahpn.lib.utexas.edu/search/documento/3895703" />
+<meta property="og:site_name" content="Digital Archive of the Guatemalan National Police Historical Archive (AHPN)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ahpn.lib.utexas.edu/search/documento/3895703" />
+<meta property="og:title" content="Search" />
+  <title>Search | Digital Archive of the Guatemalan National Police Historical Archive (AHPN)</title>
+  <link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_NdVgz6YKifxQUEsW5xls_zI7Pn2F7E5U5Wb29zcu3vo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_bsTddEGnyiI0Ly3wsj8pq7fgcbm6RA0z92C9UAj1JwA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_kHzW7mMrOYFUReOF_SLpoFo-wejB1tsxHoe8EJ4IKZM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_e0Oi8I1L8cGJ7KxcUbimLkO-ivlPDoZXuBZMWKAz5GY.css" media="print" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css__ksUIW_bw8QU92b3SxqNZYNNrsfiKE-9tncO4pqT5Gs.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_RTC8vGyMV8YVF44yG01nIF5LRJWh0E0gp9vesUXb7W0.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="https://ahpn.lib.utexas.edu/sites/default/files/css/css_W4PWZdRIVLLDy01hTttGw1rqTMHTlZnk9o6qvaJY8k0.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://ahpn.lib.utexas.edu/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="https://ahpn.lib.utexas.edu/sites/all/modules/lightbox2/js/lightbox.js?1507843431"></script>
+<script type="text/javascript" src="https://ahpn.lib.utexas.edu/sites/default/files/js/js_9sOJPya6K9M5wtUFLDPGjnw7gTAROOulqe6eRtVBPkc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-3780897-20", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://ahpn.lib.utexas.edu/sites/default/files/js/js_4zugiOZl-pgL6xtwK06KzNfxNy1jwi2lWX55BT2yWII.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ahpn","theme_token":"2Ceg4RW0zKZZebT6BdBSQAKyc-22uPv_nn28IRQezjs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/BookReader\/jquery-ui-1.8.5.custom.min.js":1,"sites\/all\/libraries\/BookReader\/dragscrollable.js":1,"sites\/all\/libraries\/BookReader\/jquery.colorbox-min.js":1,"sites\/all\/libraries\/BookReader\/jquery.bt.min.js":1,"sites\/all\/libraries\/BookReader\/BookReader.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/ahpn\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/libraries\/BookReader\/BookReader.css":1,"sites\/all\/modules\/custom\/ahpnsearch\/ahpnsearch.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/ahpn\/css\/html-reset.css":1,"sites\/all\/themes\/ahpn\/css\/wireframes.css":1,"sites\/all\/themes\/ahpn\/css\/layout-fixed.css":1,"sites\/all\/themes\/ahpn\/css\/page-backgrounds.css":1,"sites\/all\/themes\/ahpn\/css\/tabs.css":1,"sites\/all\/themes\/ahpn\/css\/pages.css":1,"sites\/all\/themes\/ahpn\/css\/blocks.css":1,"sites\/all\/themes\/ahpn\/css\/navigation.css":1,"sites\/all\/themes\/ahpn\/css\/views-styles.css":1,"sites\/all\/themes\/ahpn\/css\/nodes.css":1,"sites\/all\/themes\/ahpn\/css\/comments.css":1,"sites\/all\/themes\/ahpn\/css\/forms.css":1,"sites\/all\/themes\/ahpn\/css\/fields.css":1,"sites\/all\/themes\/ahpn\/..\/tertiary\/style.css":1,"sites\/all\/themes\/ahpn\/css\/ahpn.css":1,"sites\/all\/themes\/ahpn\/css\/print.css":1,"sites\/all\/themes\/ahpn\/css\/ie8.css":1,"sites\/all\/themes\/ahpn\/css\/ie7.css":1,"sites\/all\/themes\/ahpn\/css\/ie6.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":800,"iframe_height":350,"iframe_border":0,"enable_video":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-search page-search-documento page-search-documento- page-search-documento-3895703 i18n-en section-search" >
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    <span xml:lang="en">
+<!--<div id="wrapper">-->
+<!--UT Tower-->
+<div id="wordmarkblock">
+<a href="http://www.utexas.edu/"><img src="http://www.lib.utexas.edu/images/UTwordmark_01.jpg" alt="University of Texas at Austin" width="320" height="36" style="border:0;" /></a>
+<div id="skip"><a href="#skip">Skip to Content</a></div>
+<div id="supernav"><!--<a href="#skip" id="skip">Skip to Content</a>&nbsp;&nbsp;--><a href="http://www.lib.utexas.edu">Libraries Home</a> | <a href="/m">Mobile</a> | <a 
+href="http://www.lib.utexas.edu/account/">My Account</a> | <a href="http://catalog.lib.utexas.edu/patroninfo/">Renew 
+Items</a>  | <a 
+href="http://www.lib.utexas.edu/sitemap/quicklinks.html">Sitemap</a> | <a href="http://www.lib.utexas.edu/help/">Help</a> | 
+<div id="support-us-header"><a href="https://utdirect.utexas.edu/apps/utgiving/online/nlogon/?menu1=LCLL&amp;amount=0"><img src="http://www.lib.utexas.edu/graphics/support_us_header.png" alt="support us" /></a></div></div>
+</div>
+
+<div id="libwordblock">
+<div id="logotd" style="width:253px;float:left;"><a href="http://www.lib.utexas.edu/">
+<img src="http://www.lib.utexas.edu/sites/all/themes/utlibraries/graphics/wordmark-ut-libraries-black.png" alt="University of 
+Texas Libraries" width="253" height="29" /></a>
+</div>
+<div id="life_of_the_mind"><img src="http://www.lib.utexas.edu/sites/all/themes/utlibraries/graphics/celebrating-the-life.png" 
+alt="Celebrating the Life" />
+</div>
+
+</div>
+</span>
+<div id="page-wrapper"><div id="page">
+
+    <div class="region region-header-logo">
+    <div id="block-views-partners-header-logos-block" class="block block-views first last odd">
+
+      
+  <div class="content">
+    <div class="view view-partners-header-logos view-id-partners_header_logos view-display-id-block view-dom-id-85c6381a1d80d380eefa95a7d2721d27">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <span class="views-field views-field-field-partner-logo">        <span class="field-content"><a href="http://www.utexas.edu/cola/insts/llilas/"><img typeof="foaf:Image" src="https://ahpn.lib.utexas.edu/sites/default/files/styles/header-logos/public/logo-LILAS_2.png?itok=NLMvWzmF" width="60" height="60" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.utexas.edu/cola/insts/llilas/">Teresa Lozano Long Institute of Latin American Studies</a></span>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <span class="views-field views-field-field-partner-logo">        <span class="field-content"><a href="http://www.utexas.edu/law/centers/humanrights/"><img typeof="foaf:Image" src="https://ahpn.lib.utexas.edu/sites/default/files/styles/header-logos/public/logo-larger-rapoport.png?itok=ySLG_op7" width="60" height="60" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.utexas.edu/law/centers/humanrights/">Bernard and Audre Rapoport Center For Human Rights and Justice</a></span>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <span class="views-field views-field-field-partner-logo">        <span class="field-content"><a href="http://www.archivohistoricopn.org/"><img typeof="foaf:Image" src="https://ahpn.lib.utexas.edu/sites/default/files/styles/header-logos/public/logo-larger-AHPN.png?itok=07OaQMsW" width="60" height="60" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.archivohistoricopn.org/">Archivo Histórico de la Policía Nacional</a></span>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <span class="views-field views-field-field-partner-logo">        <span class="field-content"><a href="http://www.lib.utexas.edu/benson"><img typeof="foaf:Image" src="https://ahpn.lib.utexas.edu/sites/default/files/styles/header-logos/public/logo-LILAS_3.png?itok=KZoMRuCy" width="60" height="60" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.lib.utexas.edu/benson">Nettie Lee Benson Latin American Collection</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+  <div id="header"><div class="section clearfix">
+
+    
+    
+          <div id="name-and-slogan">
+                              <div id="site-name"><strong>
+              <a href="/" title="Home" rel="home"><span>AHPN</span></a>
+            </strong></div>
+                  
+                  <div id="site-slogan">Digital Archive of the Guatemalan National Police Historical Archive</div>
+              </div><!-- /#name-and-slogan -->
+    
+    
+    
+  </div></div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+          <div id="navigation"><div class="section clearfix">                 
+      
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-415 first"><a href="/home">Home</a></li>
+<li class="menu-392 active-trail"><a href="/search" title="" class="active-trail active">Search</a></li>
+<li class="menu-358"><a href="/microfilm">Microfilm</a></li>
+<li class="menu-359"><a href="/related_resources">Related  Resources</a></li>
+<li class="menu-360"><a href="/project_partners">Project Partners</a></li>
+<li class="menu-361"><a href="/about">About  this Site</a></li>
+<li class="menu-423"><a href="/about_ahpn">About AHPN</a></li>
+<li class="menu-362 last"><a href="/latin_american_studies_human_rights_at_ut">Latin American Studies &amp; Human Rights at UT</a></li>
+</ul>      
+          <div class="region region-navigation">
+    <div id="block-locale-language" class="block block-locale first last odd">
+
+      
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="en first active"><a href="/search/documento/3895703" class="language-link active" xml:lang="en">English</a></li>
+<li class="es last"><a href="/es/search/documento/3895703" class="language-link" xml:lang="es">Español</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+      
+      </div></div><!-- /.section, /#navigation -->   
+      
+
+    <div id="content" class="column"><div class="section">
+                  <a id="main-content"></a>
+              
+        <h1 class="title" id="page-title">Search</h1>
+                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system first last odd">
+
+      
+  <div class="content">
+    
+<ul class="ahpnbreadcrumbs">
+<li><a href="/search/">Search</a> (3643447)
+<ul>
+<li><a href="/search/carpeta/gtpn">GT PN</a> (3156459)<ul>
+<li><a href="/search/carpeta/gtpn56">56 GUARDIA CIVIL</a> (90925)<ul>
+<li><a href="/search/carpeta/gtpn56s001">S001  Fichas, Registro Maestro</a> (90923)</li></ul>
+</li></ul>
+</li></ul>
+</li>
+</ul>
+<br />
+<br />
+<div id="bookreadercontainer">
+  <div id="BookReader">
+    <noscript>
+    <p>
+      The BookReader requires JavaScript to be enabled. Please check
+      that your browser supports JavaScript and that it is enabled
+      in the browser settings.
+    </p>
+    </noscript>
+  </div>
+</div>
+
+  <script type="text/javascript">
+
+(function ($) {
+    br = new BookReader();
+
+    br.docId = 'Document 3895703';
+    br.numLeafs = 1;
+    br.pages = [
+          ['30/1405/9879799', 1000, 1294],
+        ];
+
+    br.bookUrl = '/search/documento/3895703';
+    br.bookTitle = br.docId;
+
+    br.getPageWidth = function(index) {
+      return this.pages[index][1];
+    }
+
+    br.getPageHeight = function(index) {
+      return this.pages[index][2];
+    }
+
+    br.getPageURI = function(index, reduce, rotate) {
+      var width = this.getPageWidth(index) / reduce;
+      var postfix = (width > 180) ? '_1000.jpg' : '_180.jpg';
+      var url = 'https://ahpn.lib.utexas.edu/search/images/' + this.pages[index][0] + postfix;
+      return url;
+    }
+
+    br.getSpreadIndices = function(pindex) {
+        var spreadIndices = [null, null];
+        if ('rl' == this.pageProgression) {
+            // Right to Left
+            if (this.getPageSide(pindex) == 'R') {
+                spreadIndices[1] = pindex;
+                spreadIndices[0] = pindex + 1;
+            } else {
+                // Given index was LHS
+                spreadIndices[0] = pindex;
+                spreadIndices[1] = pindex - 1;
+            }
+        } else {
+            // Left to right
+            if (this.getPageSide(pindex) == 'L') {
+                spreadIndices[0] = pindex;
+                spreadIndices[1] = pindex + 1;
+            } else {
+                // Given index was RHS
+                spreadIndices[1] = pindex;
+                spreadIndices[0] = pindex - 1;
+            }
+        }
+    
+        return spreadIndices;
+    }
+
+    br.getPageNum = function(index) {
+        return index+1;
+    }
+
+    br.getEmbedCode = function(frameWidth, frameHeight, viewParams) {
+        return "Embed code not supported.";
+    }
+
+        br.init();
+
+    $('#BRtoolbar').append('Document 3895703');
+    $('#BRtoolbar').append('&nbsp;&nbsp;</a>');
+    $('#BRtoolbar').find('.read').hide();
+    $('#textSrch').hide();
+    $('#btnSrch').hide();
+    $('#BRtoolbarbuttons').hide();
+    $('#BRpage').find('.twopg').hide();
+    $('#BRtoolbar').find('.logo').hide();
+    $('#BRnav').find('.BRdn').hide();
+    $('#BRnav').find('.BRup').hide();
+    $('#BRreturn').hide();
+})(jQuery);
+  </script>
+
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    
+          </div></div><!-- /.section, /#content -->
+
+    
+    
+  </div></div><!-- /#main, /#main-wrapper -->
+
+    <div class="region region-footer">
+    <div id="block-block-4" class="block block-block first last odd">
+
+      
+  <div class="content">
+    <p><span><a href="/contact?format=simple" rel="lightmodal">Feedback</a> | <a href="/material_usage_statement">Disclaimer and Usage Statement</a> | <a href="/site_credits">Site Credits</a></span></p>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  </body>
+</html>
