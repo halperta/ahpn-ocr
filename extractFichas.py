@@ -31,8 +31,9 @@ if __name__ == '__main__':
     m = re.search("br.pages = \[\n.*\['(.+?)',", html_content)
     if m:
       found = m.group(1)
-      print found
-      f.write(found + "\n")
+      jpgURL = "https://ahpn.lib.utexas.edu/search/images/" + found + "_1000.jpg"
+      print jpgURL
+      f.write(jpgURL + "\n")
     else:
       print "no"
   f.close()
